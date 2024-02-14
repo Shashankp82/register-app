@@ -36,6 +36,6 @@
    <h1> Happy Learning. See You Again. </h1>
    <h1> Sucessfully complete CI/CD Pipneline Project. </h1> 
     <h1>New Line added 7Feb2024 </h1>
-    <h1> New CICD piepline craete and deplyed on docker on same server"
+    <h1> New CICD piepline created and application deployed on prod server automatically" </h1>
    
 </form>
